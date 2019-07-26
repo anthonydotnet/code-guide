@@ -1,9 +1,23 @@
 # code-guide
 This is a high level set of guidelines for c# MVC web development. The purpose is to gather commonly used best practices in a single place.
 
+
+# High Level Concepts
+## Code must be
+- Understandable (by a junior/mid-weight developer)
+- Concise
+- Elegant  
+
+## Class & Interface Naming
+- Naming should be meaningful and understandable 
+- Avoid calling everything a Service/Helper
+
+
+
 # Presentation Layer
 ## MVC Controllers
-- Uses constructor injection
+- Use constructor injection
+- Actions should typically be no longer than 10-20 lines
 
 
 ## MVC View Models
