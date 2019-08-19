@@ -7,6 +7,6 @@ Pull-requests are welcome!
 
 
 
-- [Universal Concepts](universal-concepts)
-- [Backend](backend/index)
-- [Frontend](frontend/index)
+- [Universal Concepts](universal-concepts.md)
+- [Backend](backend/index.md)
+- [Frontend](frontend/index.md)
