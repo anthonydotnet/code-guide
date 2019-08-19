@@ -22,12 +22,13 @@
 ## Naming
 - Naming should be meaningful and understandable 
   - Avoid calling everything a Service/Helper/Handler
-- Avoid abbreviations
+- Avoid abbreviations where possible
+  - Acceptable exceptions may include commonly understood abbreviations eg. Intro. 
 
 
-## Methods/Functinos/Constructors
+## Methods/Functions/Constructors
 - Number of parameters: ~<5 
-  - Exceeding this is a signal to possibly reconsider the architecture
+  - Exceeding ~5 is a signal to possibly reconsider the architecture
 - Avoid God-methods 
-  - Splitting them into multiple methods of the same file only masks the problem
+  - Splitting a God-method into multiple methods in the same file only masks the problem. It's still a God-method!
 
