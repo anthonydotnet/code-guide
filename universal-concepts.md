@@ -15,6 +15,8 @@
 
 
 ## Unit Testing
+- Appropriate test coverage is almost never 100%.
+  - There are diminising returns. 
 - There is no point writing code now, thinking that you will write tests later. It probably won't happen!
 - Use unit tests to help you architect your code  
 
