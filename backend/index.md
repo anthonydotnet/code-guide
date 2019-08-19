@@ -1,6 +1,6 @@
 # Files
-- [api](api)
-- [domain-logic](domain-logic)
-- [general-concepts](general-concepts)
-- [mvc](mvc)
+- [api](api.md)
+- [domain-logic](domain-logic.md)
+- [general-concepts](general-concepts.md)
+- [mvc](mvc.md)
 
