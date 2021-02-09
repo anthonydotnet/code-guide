@@ -10,6 +10,8 @@
 - Simple plain old objects with public properties
 - Contains everything the view actually requires 
 - Generally should not contain public methods
+> While reusing Models is recommended where possible, avoid exposing/loading properties that are not required.\
+> if needed, create a new Model that better suits the current view
 
 
 ## Views
