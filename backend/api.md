@@ -10,4 +10,4 @@
 
 ## API Response Models
 - Avoid using the same model for API responses & MVC views
-- 
+ 
