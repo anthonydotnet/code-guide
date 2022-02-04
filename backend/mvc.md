@@ -2,8 +2,8 @@
 # MVC - Presentation Layer
 
 ## Controllers
-- Actions should typically be no longer than 10-20 lines
-- Buids/acquires View Models with all the data required for a View
+- Actions should typically be no longer than 20 lines. Any more than that may indicate you are doing too much, and not following SOLID. Feel free to disagree!
+- Build/acquire your View Models with all the data required for a View
 
 
 ## View Models
